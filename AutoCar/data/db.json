@@ -1,0 +1,11 @@
+{
+  "products": [
+    {
+      "id": "c2c3",
+      "marca": "Chrevolet",
+      "modelo": "Onix Plus LT",
+      "ano": "2024",
+      "price": 100000
+    }
+  ]
+}
